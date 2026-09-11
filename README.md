@@ -14,7 +14,7 @@ my studio for software, tools, and creative work. Problem-solving everyday life.
 - Immersive Tech Award winner, AWE EU speaker and finalist
 - Outside of code: music, DJing, video games, and traveling
 
-<video src="assets/beatbox-logo.mp4" width="600" autoplay loop muted playsinline></video>
+<video src="assets/beatbox-logo.gif" width="600" autoplay loop muted playsinline></video>
 
 ## From NTB Labs
 
