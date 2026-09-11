@@ -1,17 +1,30 @@
-# Nathan Thomas-Benke
+# Hey, I'm Nathan 👋
 
 XR engineer building real-time 3D and spatial computing applications,
-with a focus on R&D. Most of my work is in Unity and C#, across VR
-headsets and mobile AR.
+mostly in Unity and C#. Outside of work I run **[NTB Labs](https://ntblabs.dev)**,
+my studio for software, tools, and creative work. Problem-solving everyday life.
 
-Outside of work I run NTB Labs, my studio for software, tools, and
-creative work. Problem-solving everyday life.
+## About me
 
-## NTB Labs
+- UW-Madison alum (Go Badgers 🦡)
+- MSc in Virtual and Augmented Reality
+  - Thesis research in 3D graphics remapping and reprojection: using depth cameras to change the look of the real world in real time
+- Now working professionally in XR, building for headsets and mobile AR
+- Outside of code: music, DJing, video games, and traveling
 
-- **[Catan Lab](https://catan.ntblabs.dev)**: Strategic map generator for Catan that balances boards by player count and resource fairness. Live.
-- **[Sift](https://ntblabs.dev/products/sift)**: Sorts Amazon search results by statistical merit, entirely on-device. Coming soon.
-- **Confide**: Native Windows app. In development.
-- **Lucid**: Real-time 3D in Unity. In development.
+## From NTB Labs
 
-The NTB Labs source is private. The products are linked above.
+- **[Catan Lab](https://catan.ntblabs.dev)**: Balanced Catan boards and scenario modes
+- **[Sift](https://ntblabs.dev/products/sift)**: Amazon search, sorted by what's actually good
+- **Confide**: Native Windows app
+- **Lucid**: Real-time graphics remapping in Unity, grown from my thesis
+
+Plus a few more still in the lab. NTB Labs source is private, and live products are linked above.
+
+## Core tech stack
+
+![Core tech stack](https://skillicons.dev/icons?i=unity,cs,maya,ps,ae,pr,ableton,git,vscode)
+
+## Find me
+
+[Portfolio](https://nathantbenke.github.io) · [NTB Labs](https://ntblabs.dev) · [LinkedIn](https://www.linkedin.com/in/nathan-thomas-benke/)
