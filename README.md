@@ -1,7 +1,8 @@
 # Hey, I'm Nathan 👋
 
 XR engineer building real-time 3D and spatial computing applications,
-mostly in Unity and C#. Outside of work I run **[NTB Labs](https://ntblabs.dev)**,
+mostly in Unity and C#. I'm at my best when I get to throw paint and
+see what something can be. Outside of work I run **[NTB Labs](https://ntblabs.dev)**,
 my studio for software, tools, and creative work. Problem-solving everyday life.
 
 ## About me
@@ -10,7 +11,10 @@ my studio for software, tools, and creative work. Problem-solving everyday life.
 - MSc in Virtual and Augmented Reality
   - Thesis research in 3D graphics remapping and reprojection: using depth cameras to change the look of the real world in real time
 - Now working professionally in XR, building for headsets and mobile AR
+- Immersive Tech Award winner, AWE EU speaker and finalist
 - Outside of code: music, DJing, video games, and traveling
+
+<video src="assets/beatbox-logo.mp4" width="600" autoplay loop muted playsinline></video>
 
 ## From NTB Labs
 
@@ -23,7 +27,7 @@ Plus a few more still in the lab. NTB Labs source is private, and live products 
 
 ## Core tech stack
 
-![Core tech stack](https://skillicons.dev/icons?i=unity,cs,maya,ps,ae,pr,ableton,git,vscode)
+![Core tech stack](https://skillicons.dev/icons?i=unity,cs,ps,ae,pr,ableton,git,vscode)
 
 ## Find me
 
